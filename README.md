@@ -12,7 +12,7 @@ or hostels. It serves as an index of items that can be claimed by students.
 - [ ] Discharge Lost Item (post-verification)
 
 ### Authors
-This project is a collaborative effort by
+This project is a collaborative effort by:
 1. [ Jeet Thakur ](https://github.com/Jeet-Thakur)
 2. [ Revanth Singothu ](https://github.com/rev-sin)
 3. [ Ritesh Koushik ](https://github.com/IAmRiteshKoushik)
